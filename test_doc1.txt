@@ -1,3 +1,4 @@
 # test_doc1.txt
 # Added test comment.
 # Added second test comment.
+# Added the third test comment.
