@@ -4,14 +4,16 @@
 A brief description of the project, its purpose, and key features.
 
 ## Table of Contents
+- [Overview](#overview)
+- [Table of Contents](#table-of-contents)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-  - [Build Dependencies](#build-dependencies)
-  - [Runtime Dependencies](#runtime-dependencies)
-  - [Functional Dependencies](#functional-dependencies)
+    - [Build Dependencies](#build-dependencies)
+    - [Runtime Dependencies](#runtime-dependencies)
+    - [Functional Dependencies](#functional-dependencies)
 - [Development and Contribution](#development-and-contribution)
 - [License](#license)
 
