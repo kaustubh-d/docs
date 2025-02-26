@@ -2,4 +2,3 @@ Module,Host,Port,DC_Name
 ModuleA,192.168.1.10,8080,DC1
 ModuleB,192.168.1.11,9090,DC2
 ModuleC,192.168.1.12,3306,DC3
-ModuleD,192.168.1.13,3306,DC4
