@@ -1,0 +1,11 @@
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello World!!")
+
+	fmt.Println("source line A1!!")
+	fmt.Println("source line A2!!")
+	fmt.Println("source line A3!!")
+}
